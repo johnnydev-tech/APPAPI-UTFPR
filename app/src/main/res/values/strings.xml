@@ -8,4 +8,6 @@
     <string name="error_create">Erro ao criar o item</string>
     <string name="error_update">Erro ao atualizar o item</string>
     <string name="success_update">Item %1$s atualizado com sucesso!</string>
+    <string name="denied_permission">Permissão de localização negada</string>
+    <string name="error_location">Erro ao obter a localização</string>
 </resources>
